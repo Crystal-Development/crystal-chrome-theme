@@ -5,3 +5,5 @@ Custom Google Chrome Theme
 ![Screenshot-01](https://i.imgur.com/XhU7hRx.png)
 
 ![Screenshot-02](https://i.imgur.com/ud7PL0O.png)
+
+![Screenshot-03](https://i.imgur.com/weBRvSI.png)
